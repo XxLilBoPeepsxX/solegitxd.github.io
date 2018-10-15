@@ -8,5 +8,5 @@ My Youtube Channel: [FastWin](https://www.youtube.com/channel/UCa2bruOkBdYvDN4nI
 
 ```markdown
 This Modpack use for Hypixel Server
-Price: 5$
+Price: 5$ (2 Month) and 7.5€ For Lifetime
 ```
