@@ -1,0 +1,5 @@
+-------CHANGELOG-------
+1. Fix Ranked Capture
+2. Fix Auto Update Proxy (File Mode)
+3. Fix UFA Hash Capture
+-------CHANGELOG-------
