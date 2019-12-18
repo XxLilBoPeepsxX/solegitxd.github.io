@@ -1,5 +1,3 @@
 -------CHANGELOG-------
-1. Fix Ranked Capture
-2. Fix Auto Update Proxy (File Mode)
-3. Fix UFA Hash Capture
+1. Enjoy Legacy Speed <3
 -------CHANGELOG-------
