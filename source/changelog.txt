@@ -1,6 +1,6 @@
 -------CHANGELOG-------
 1. Fix Hypixel Leveled + UHC Stars Capture
-2. Improve Mail Access
-3. Fix Some Bug
-4. Add remove duplication lines when load combolist!
+2. Add SFA Password Changer + SFA 
+3. Credit: ElBonned (2captcha api sponsor)
+4. Fix some retarded bug
 -------CHANGELOG-------
