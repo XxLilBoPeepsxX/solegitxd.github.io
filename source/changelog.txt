@@ -1,6 +1,3 @@
 -------CHANGELOG-------
-1. Fix Hypixel Leveled + UHC Stars Capture
-2. Add SFA Password Changer + SFA 
-3. Credit: ElBonned (2captcha api sponsor)
-4. Fix some retarded bug
+1. Fix Windows 10 Keys Capture
 -------CHANGELOG-------
