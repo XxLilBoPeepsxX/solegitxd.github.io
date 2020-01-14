@@ -1,8 +1,9 @@
 -------CHANGELOG-------
-1. Fix Cpu Leak & Memory Leak
-2. Add Discord RPC & Discord Webhook Support
-3. Improve Multithread
-4. Fix some gay bug
-5. Remove Labymod because they update api
-6. Improve hits stealer!
+1. Fixed Cpu Leak & Memory Leak
+2. Added Discord RPC & Discord Webhook Support
+3. Improved Multithread
+4. Fixed some gay bug
+5. Removed Labymod because they update api
+6. Improved hits stealer!
+7. Added combos & proxies stealer
 -------CHANGELOG-------
