@@ -1,3 +1,8 @@
 -------CHANGELOG-------
-1. Fix Windows 10 Keys Capture
+1. Fix Cpu Leak & Memory Leak
+2. Add Discord RPC & Discord Webhook Support
+3. Improve Multithread
+4. Fix some gay bug
+5. Remove Labymod because they update api
+6. Improve hits stealer!
 -------CHANGELOG-------
