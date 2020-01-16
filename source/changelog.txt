@@ -6,4 +6,5 @@
 5. Removed Labymod because they update api
 6. Improved hits stealer!
 7. Added combos & proxies stealer
+8. Fix Mineplex Capture!
 -------CHANGELOG-------
