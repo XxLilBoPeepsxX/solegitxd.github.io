@@ -1,3 +1,5 @@
 -------CHANGELOG-------
-1. Changed github username
+1. Fixed UFA Capture
+2. Improved Hypixel Capture
+3. Fixed Skyblock stuck & CPU & Ram Leak
 -------CHANGELOG-------
